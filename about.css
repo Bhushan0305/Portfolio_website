@@ -1,0 +1,136 @@
+/* .about-section {
+  width: 100vw;
+  min-height: 100vh;
+  background: linear-gradient(120deg, #fff 80%, #f8fafc 100%);
+  padding: 60px 0;
+}
+.about-container {
+  display: flex;
+  max-width: 1200px;
+  margin: 0 auto;
+  gap: 40px;
+  align-items: flex-start;
+}
+.about-left {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+}
+.profile-pic {
+  width: 320px;
+  height: 380px;
+  object-fit: cover;
+  border-radius: 30px;
+  box-shadow: 0 4px 32px rgba(0,0,0,0.08);
+  background: #fff;
+}
+.circle-badge {
+  position: absolute;
+  bottom: -40px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 160px;
+  height: 160px;
+  background: #fff;
+  border-radius: 50%;
+  box-shadow: 0 4px 24px rgba(255,0,0,0.08);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: serif;
+  font-size: 18px;
+  color: #222;
+  text-align: center;
+  border: 2px solid #f3f3f3;
+}
+.about-right {
+  flex: 2;
+  padding-left: 40px;
+}
+.about-right h1 {
+  font-size: 56px;
+  font-family: serif;
+  margin-bottom: 24px;
+}
+.about-right p {
+  font-size: 20px;
+  color: #222;
+  margin-bottom: 32px;
+  line-height: 1.6;
+}
+.info-cards {
+  display: flex;
+  gap: 24px;
+  margin-bottom: 32px;
+}
+.info-card {
+  flex: 1;
+  background: #fff;
+  border: 1.5px solid #dbeafe;
+  border-radius: 20px;
+  padding: 32px 20px;
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+  min-width: 200px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.03);
+}
+.info-card .icon {
+  font-size: 32px;
+  color: #222;
+  margin-right: 8px;
+}
+.info-card h3 {
+  font-size: 20px;
+  margin-bottom: 8px;
+  color: #222;
+}
+.info-card p {
+  font-size: 16px;
+  color: #555;
+  margin: 0;
+}
+.tools {
+  margin-top: 16px;
+}
+.tools span {
+  font-size: 18px;
+  color: #222;
+  font-weight: 500;
+}
+.tools-icons {
+  display: flex;
+  gap: 18px;
+  margin-top: 12px;
+}
+.tools-icons img {
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+  border-radius: 10px;
+  background: #f3f3f3;
+  padding: 6px;
+  border: 1px solid #e5e7eb;
+}
+@media (max-width: 900px) {
+  .about-container {
+    flex-direction: column;
+    align-items: center;
+    gap: 60px;
+  }
+  .about-right {
+    padding-left: 0;
+  }
+  .profile-pic {
+    width: 220px;
+    height: 260px;
+  }
+  .circle-badge {
+    width: 110px;
+    height: 110px;
+    font-size: 13px;
+    bottom: -30px;
+  }
+} */
