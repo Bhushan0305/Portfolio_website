@@ -14,8 +14,8 @@ This site showcases my skills, projects, and experience as a Full Stack Develope
 
 ## 🚀 Live Demo
 
-[View Portfolio Live](https://your-username.github.io/portfolio_new/)  
-*(Replace with your actual live link after deployment)*
+[View Portfolio Live] ( https://bhushan0305.github.io/Portfolio_website/ )  
+
 
 ## 📂 Features
 
